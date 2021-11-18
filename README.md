@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Christinamelwani
 - 👀 I’m interested in: Web programming
-- 🌱 I’m currently learning: Python, algorithms and data structures
+- 🌱 I’m currently learning: Python & Algorithms and data structures
 - 📫 How to reach me: christinarajm@gmail.com
 
 <!---
