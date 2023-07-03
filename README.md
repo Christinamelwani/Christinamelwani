@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Christinamelwani
 - 👀 I’m interested in: Web programming
-- 🌱 I’m currently learning: back end development
 - 📫 How to reach me: christinarajm@gmail.com
 
 <!---
