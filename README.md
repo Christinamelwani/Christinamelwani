@@ -1,5 +1,3 @@
-Not currently active on this account - we use Gitlab.
-
 - 👋 Hi, I’m @Christinamelwani
 - 👀 I’m interested in: Web programming
 - 📫 How to reach me: christinarajm@gmail.com
